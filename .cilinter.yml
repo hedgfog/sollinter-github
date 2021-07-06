@@ -1,0 +1,28 @@
+include:
+  - "sol"
+
+#exclude:
+#  - sol_example/empty.sol
+#  - sol_example/failed/
+#  - linters/
+#  - sol_example/erc20/
+#  - sol_example/erc165/
+#  - sol_example/erc223/
+#  - sol_example/erc621/
+#  - sol_example/erc721/
+#  - sol_example/erc777/
+#  - sol_example/erc827/
+#  - sol_example/erc865/
+#  - sol_example/erc884/
+#  - sol_example/erc1155/
+
+enabled:
+  # - mythrill # long time work
+  - solhint
+  # - ethlintsol
+  # - slither
+  # - sol-verifier # only deployed
+  # - securify     # not correct error
+  # - echidna      # for special contract(fuzzing)
+  - smartcheck
+

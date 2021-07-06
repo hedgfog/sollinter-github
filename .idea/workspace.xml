@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="275e6217-a604-4c94-82fc-0b7ac1eb6e44" name="Default Changelist" comment="">
+    <list default="true" id="12c6ead5-da26-4882-b9a3-346805efdaf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/linter.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../khan_crypto/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../khan_crypto/cmd/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../khan_crypto/crypto/cesar.go" beforeDir="false" afterPath="$PROJECT_DIR$/../khan_crypto/crypto/cesar.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../khan_crypto/crypto/cesar_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../khan_crypto/crypto/cesar_test.go" afterDir="false" />
@@ -19,11 +20,6 @@
       <change beforePath="$PROJECT_DIR$/../kvdb/kv/kv_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../kvdb/kv/kv_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kvdb/kv/node.go" beforeDir="false" afterPath="$PROJECT_DIR$/../kvdb/kv/node.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kvdb/kv/put.go" beforeDir="false" afterPath="$PROJECT_DIR$/../kvdb/kv/put.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sollinter-github.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../txservice/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../txservice/cmd/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../txservice/service/service.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../txservice/service/service.proto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vanilla-achivments/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../vanilla-achivments/Dockerfile" afterDir="false" />
@@ -63,9 +59,9 @@
   </component>
   <component name="GOROOT" url="file:///snap/go/7736" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1uwMEI1gebcO72VBcyn3HFZvOPZ" />
+  <component name="ProjectId" id="1uwMoiB4xgvIOs6vRkUQAkSidRt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
